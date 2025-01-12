@@ -111,7 +111,7 @@ export default function Home() {
             </div>
             <div className="relative h-[400px] lg:h-[500px]">
               <Image
-                src="/images/Hero-product.png"
+                src="/images/Hero-Product.png"
                 alt="Featured Chair"
                 fill
                 className="object-contain"
